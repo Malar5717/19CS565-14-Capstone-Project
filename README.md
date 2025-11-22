@@ -35,7 +35,7 @@ Dynamically download the PDF for each semester.
 ##### status: on progress
 
 ### Phase 03 - To perform Mathematical Calculations:
-Calculate the CGPA from the Student Scorex
+Calculate the CGPA from the Student Scores.
 
 ##### status: on progress
 
