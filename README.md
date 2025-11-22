@@ -27,6 +27,11 @@ Navigate to MyCamu by using the credential asset stored, and accessing the stude
 
 https://github.com/user-attachments/assets/f6819ae1-1e59-4990-a67e-5f2b75a4b234
 
+#### Concepts covered:
+Storing secure credentials via UIPath Orchestrator.
+Navigation through website.
+Understanding render rates and applying delays accordingly.
+
 ##### status: completed
 
 ### Phase 02 - Data Retrieval & Storage: 
